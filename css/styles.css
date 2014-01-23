@@ -1,0 +1,71 @@
+body { font-family: Arial; font-size: 20px; color:#000000; padding: 40px;}
+
+/* Headers */
+h1 {text-transform:uppercase; color:#4993ff; }
+h2 {text-transform:capitalize; color:#4993ff; }
+h3 {text-transform:capitalize; color:#000000; }
+h4 {text-transform:capitalize; color:#000000; }
+h2.contentsvolume { }
+
+
+/* Links */
+a { text-decoration:none; color:#4993ff; }
+a:hover {text-decoration:underline; }
+
+/* Tables */
+table {width:100%;}
+tr { border:1px solid #4993ff;}
+td { border:1px solid #4993ff;}
+th { font-weight:bold; background-color:#4993ff;}
+td.sum {background-color:#4993ff;}
+td.subheader {font-weight:bold;}
+
+/* Lists */
+ul.navigation {}
+ul.navigation li {}
+ul.navigation li ul {}
+ul.navigation li ul li {display:inline; font-size: smaller;}
+
+/* Lists > Contents*/
+ul.contents {margin:0px; padding:0px;}
+
+/* Lists > Contents > Parts */
+ul.contents li.contentspart {display:block; font-weight:bold;margin:1em 0px 0.25em 0px;}
+ul.contents li.contentspart a {}
+ul.contents li.contentspart a:hover {}
+
+/* Lists > Contents > Chapters */
+ul.contents ul {margin:0px; padding:0px;}
+ul.contents ul li.contentschapter {display:block;font-weight:bold;margin:0.25px 0px 0.25em 0px;}
+ul.contents ul li.contentschapter a {}
+ul.contents ul li.contentschapter a:hover {}
+
+/* Lists > Contents > Sections */
+ul.contents ul ul {margin:0px 0px 1em 1em; padding:0px;}
+ul.contents ul ul li{display:block;}
+ul.contents ul ul li a{color: #333333;}
+ul.contents ul ul li a:hover{color:#4993ff; }
+
+
+
+/* Lists > Contents > Appedicies */
+ul.contents ul li.appendixtitle {display:block; margin: 0px 0px 0px 1em;}
+ul.contents ul li.appendixtitle a {color: #333333;}
+ul.contents ul li.appendixtitle a:hover {color:#4993ff; }
+
+div.breadcrumbs { display:block; padding:0.2em; margin:0px; background-color:#FFFFFF; border:1px solid #EEEEEE; position: fixed; top:20px; right:40px; z-index:0; }
+
+div.breadcrumbs p {padding:0px; margin:0px; font-size:70%; color:#666666;}
+div.breadcrumbs p a {color:#666666;}
+div.breadcrumbs p a:hover {color:#4993ff;}
+
+div.footer {color:#999999; font-size:small;}
+div.footer ul {padding:0px; margin:0px;}
+div.footer li {display:inline;}
+div.footer li.middle:before { content:'| ';}
+div.footer li.last:before { content:'| ';}
+
+p.footnote {background-color:#CCCCCC; border: 1px solid #000000;}
+
+p.acknowledgements {color:#4993ff; font-size:larger;}
+
