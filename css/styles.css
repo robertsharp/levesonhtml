@@ -17,6 +17,7 @@ div#logo a { display:block; width: 200px; height: 200px; background-image: url('
  
 /* Paragraphs */
 p {}
+p.attribution {text-align: right;}
 a.paranumber {margin-right: 20px;}
 blockquote {font-style:italic; color: #555555;}
  /* Headers */
