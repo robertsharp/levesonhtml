@@ -1,0 +1,127 @@
+body { font-family: 'Exo 2', Arial, sans-serif; font-size:20px; color:#444444; padding: 0px; line-height: 170%; padding: 0px; margin:0px; }
+/* Content */
+div.content {padding:25px 100px 25px 300px; }
+div.clear {clear: both;}
+.hiddenstructure { display:none;}
+/* Logo */
+div#logo { position: fixed; top:50px; left:50px; z-index:1; height: 200px; width: 200px; }
+div#logo a { display:block; width: 200px; height: 200px; background-image: url('http://leveson.robertsharp.co.uk/images/leveson-as-it-should-be-logo.png');  }
+/* Breadcrumbs */
+ div#breadcrumbs {  width: 200px; display:block; padding:0px; margin:0px; position: fixed; top:5em; left:50px; z-index:10; }
+ div#breadcrumbs ul {padding:0px; margin:0px;text-align: center;}
+ div#breadcrumbs ul li {display: inline; padding:0px; margin:0px;}
+ div#breadcrumbs ul li a {font-size:80%; color:#666666;}
+ div#breadcrumbs ul li a:hover {color:#4993ff;}
+ div#breadcrumbs ul li.homecrumb a { display:block; color:#4993ff; margin: 0px; height:70px; width:200px; background-image: url('../images/as-it-should-be-small.png'); background-repeat:no-repeat; background-position: center bottom; background-color: none;  }
+ div#breadcrumbs ul li.chaptercrumb:before { content:'| ';}
+ 
+/* Paragraphs */
+p {}
+p.attribution {text-align: right;}
+a.paranumber, a.recommendnumber {margin-right: 20px;}
+blockquote {font-style:italic; color: #555555;}
+q {font-style:italic; color: #555555;}
+q:before,
+q:after {
+ content: "";
+}
+div.recommend { 
+font-weight: bold; 
+margin: 0px 0px 5px 0px;
+padding: 1em; 
+background-color: #EEEEFF;}
+
+ /* Headers */
+ h1 {text-transform:uppercase; color:#4993ff; line-height: 100%; clear:both; }
+ h2 {text-transform:capitalize; color:#4993ff;  }
+ h3 {text-transform:capitalize; color:#4993ff; }
+ h4 {font-style:italic; font-weight: bold; color:#4993ff;  }
+ h2.contentsvolume { }
+ 
+ /* Links */
+ a { text-decoration:none; color:#4993ff; }
+ a:hover {text-decoration:underline; }
+ /* Tables */
+ table {width:100%;}
+ tr { border:1px solid #4993ff;}
+ td { border:1px solid #4993ff;}
+ th { font-weight:bold; background-color:#4993ff;}
+ td.sum {background-color:#4993ff;}
+ td.subheader {font-weight:bold;}
+ /* Lists */
+ ul.navigation {}
+ ul.navigation li {}
+ ul.navigation li ul {}
+ ul.navigation li ul li {display:inline; font-size: smaller;}
+ /* Lists > Contents */
+ ul.contents {margin:0px; padding:0px;}
+ /* Lists > Contents > Parts */
+ ul.contents li.contentspart {display:block; font-weight:bold;margin:1em 0px 0.25em 0px;}
+ ul.contents li.contentspart a {}
+ ul.contents li.contentspart a:hover {}
+ /* Lists > Contents > Chapters */
+ ul.contents ul {margin:0px; padding:0px;}
+ ul.contents ul li.contentschapter {display:block;font-weight:bold;margin:0.25px 0px 0.25em 0px;}
+ ul.contents ul li.contentschapter a {}
+ ul.contents ul li.contentschapter a:hover {}
+ /* Lists > Contents > Sections */
+ ul.contents li.contentspart ul li.contentschapter ul {margin:0px 0px 1em 1em; padding:0px;}
+ ul.contents li.contentspart ul li.contentschapter ul li {display:block; font-weight: normal;}
+ ul.contents li.contentspart ul li.contentschapter ul li a {color: #333333;}
+ ul.contents li.contentspart ul li.contentschapter ul li a:hover{color:#4993ff; }
+ /* Lists > Contents > Appedicies */
+ ul.contents li.contentspart ul li.appendixtitle {display:block; margin: 0px 0px 0px 1em; font-weight: normal;}
+ ul.contents li.contentspart ul li.appendixtitle a {color: #333333;}
+ ul.contents li.contentspart ul li.appendixtitle a:hover {color:#4993ff; }
+ 
+ 
+ /* Footnotes */
+div#footnotes {background-color:#FFFFFF; margin:25px 100px 25px 400px; font-size: smaller;}
+ sup {font-size:14px;}
+ p.footnote {}
+ hr.footerrule {display:none;}
+ 
+ sup a:hover {color:#FFFFFF; background-color: #4993ff; text-decoration:none;}
+ 
+ /* Footers */
+ div#footer, div#footernav, div#validation, div#sitecredit {padding: 0px; text-align:center; margin:15px 100px 15px 300px; background-color:#FFFFFF; }
+ div#footer, div#validation {border-top: 1px solid #DDDDDD; }
+ div#footernav {border-bottom: 1px solid #DDDDDD; padding-bottom:25px;}
+ div#validation {padding-top:25px;}
+ 
+ div#commonfooter {text-align:center; margin:25px 100px 25px 300px; background-color:#FFFFFF; }
+ p.acknowledgements {color:#4993ff; font-size:larger;}
+  div#footer, div#commonfooter {color: #111111; font-size:16px;}
+  div#footernav {font-size:12px;}
+  div#footer ul, div#footernav ul, div#commonfooter ul {padding:0px; margin:0px;}
+  div#footer li, div#footernav li, div#commonfooter li {display:inline;}
+  div#footer li.middle:before, div#footernav li.middle:before, div#commonfooter li.middle:before { content:'| ';}
+  div#footer li.last:before, div#footernav li.last:before, div#commonfooter li.last:before { content:'| ';}
+ 
+ 
+ /*Home Page navigation */
+ div#navigation {width:100%; background-color: #444444; margin:0px; border-bottom: 1px solid #000000;}
+ div#navigation ul { margin: 0px auto 0px auto; border-bottom: 1px solid #444444; width:800px;}
+ div#navigation ul  li { display:inline; margin:0px; padding: 0px; }
+ div#navigation ul  li a { display:block; color: #EEEEEE; text-decoration:none; padding: 0.5em 1em 0.5em 1em; text-align:center; float: left; }
+ div#navigation ul  li a:hover {background-color:#EEEEEE; color: #111111; }
+ 
+ 
+ /*Home page styles */
+  div#topheader {text-align: center;}
+ div#topheader h1{ margin: 100px auto 0px auto; height:150px; width:500px; background-image: url('../images/as-it-should-be.png'); background-repeat:no-repeat; background-position: center bottom;  }
+ 
+ hr.homepagerule {width: 50%; color: #DDDDDD; display: none;}
+ div#why h2, div#about h2, div#use h2, div#licence h2 {text-align: center; font-weight: bold; margin: 60px 2em 40px 2em; }
+ p.strapline {font-size: 50px; line-height: 120%; text-align: center;}
+ div#topheader, div#why, div#about, div#use, div#licence {padding: 20px 100px 50px 100px; margin: 0px;} 
+ div#divein {text-align: center; padding: 0px; margin: 0px 100px 100px 100px;} 
+div#why {background-color: #999999; color: #FFFFFF; }
+div#about {background-color: #4993ff; color: #FFFFFF; border-top: 1px solid #333333; border-bottom: 1px solid #333333;}
+div#about h2, div#about a, div#why a, div#why h2, div#why h3 {color: #FFFFFF;}
+div#about a, div#why a {text-decoration: underline;}
+div#about a:hover { color: #DDDDDD;}
+div#use {background-color: #DDDDDD; color: #000000;}
+div#use li {margin-bottom: 1em; }
+/* Contents */
+div#contents { margin:0px; padding: 100px;}
