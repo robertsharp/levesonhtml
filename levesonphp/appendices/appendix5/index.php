@@ -1,0 +1,10 @@
+<?php 
+require_once('../../common.php');
+levesonHeader('X',5);
+levesonNav('../../');
+levesonBread('X',5);
+require_once('content.php');
+levesonFooterNav('X',5); 
+require_once('footnotes.php');
+LevesonCommonFooter();
+?>

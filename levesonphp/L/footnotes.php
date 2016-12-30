@@ -1,0 +1,97 @@
+<!-- Footnotes-->
+<div id="footnotes">
+<?php footNote(L,1,1); ?> <?php internalLink('../','K',7,4,5); ?></p>
+ <?php footNote(L,1,2); ?> <?php internalLink('../','K',7,4,7); ?></p>
+ <?php footNote(L,1,3); ?> <?php internalLink('../','K',7,4,8); ?></p>
+ <?php footNote(L,1,4); ?> <?php internalLink('../','K',7,4,10); ?></p>
+ <?php footNote(L,1,5); ?> <?php internalLink('../','K',7,4,10); ?></p>
+ <?php footNote(L,1,6); ?> <?php internalLink('../','K',7,4,16); ?></p>
+ <?php footNote(L,1,7); ?> <?php internalLink('../','K',7,4,21); ?></p>
+ <?php footNote(L,1,8); ?> <?php internalLink('../','K',7,4,23); ?></p>
+ <?php footNote(L,1,9); ?> <?php internalLink('../','K',7,4,25); ?></p>
+ <?php footNote(L,1,10); ?> <?php internalLink('../','K',7,4,26); ?></p>
+ <?php footNote(L,1,11); ?> <?php internalLink('../','K',7,4,30); ?></p>
+ <?php footNote(L,1,12); ?> <?php internalLink('../','K',7,4,31); ?></p>
+ <?php footNote(L,1,13); ?> <?php internalLink('../','K',7,4,32); ?></p>
+ <?php footNote(L,1,14); ?> <?php internalLink('../','K',7,4,33); ?></p>
+ <?php footNote(L,1,15); ?> <?php internalLink('../','K',7,4,37); ?></p>
+ <?php footNote(L,1,16); ?> <?php internalLink('../','K',7,4,37); ?></p>
+ <?php footNote(L,1,17); ?> <?php internalLink('../','K',7,4,40); ?></p>
+ <?php footNote(L,1,18); ?> <?php internalLink('../','K',7,4,36); ?></p>
+ <?php footNote(L,1,19); ?> <?php internalLink('../','K',7,4,38); ?></p>
+ <?php footNote(L,1,20); ?> <?php internalLink('../','K',7,4,36); ?></p>
+ <?php footNote(L,1,21); ?> <?php internalLink('../','K',7,4,42); ?></p>
+ <?php footNote(L,1,22); ?> <?php internalLink('../','K',7,4,46); ?></p>
+ <?php footNote(L,1,23); ?> <?php internalLink('../','K',7,3,14); ?></p>
+ <?php footNote(L,1,24); ?> <?php internalLink('../','K',7,4,13); ?></p>
+ <?php footNote(L,1,25); ?> <?php internalLink('../','K',7,5,2); ?></p>
+ <?php footNote(L,1,26); ?> <?php internalLink('../','K',7,5,5); ?></p>
+ <?php footNote(L,1,27); ?> <?php internalLink('../','K',7,6,4); ?></p>
+ <?php footNote(L,1,28); ?> <?php internalLink('../','K',7,6,5); ?></p>
+ <?php footNote(L,1,29); ?> <?php internalLink('../','K',7,6,5); ?></p>
+ <?php footNote(L,1,30); ?> <?php internalLink('../','K',7,6,10); ?></p>
+ <?php footNote(L,1,31); ?> <?php internalLink('../','K',7,6,23); ?></p>
+ <?php footNote(L,1,32); ?> <?php internalLink('../','K',7,6,37); ?></p>
+ <?php footNote(L,1,33); ?> <?php internalLink('../','K',7,6,41); ?></p>
+ <?php footNote(L,1,34); ?> <?php internalLink('../','K',3,4,26); ?></p>
+ <?php footNote(L,1,35); ?> <?php internalLink('../','K',7,4,28); ?></p>
+ <?php footNote(L,1,36); ?> <?php internalLink('../','K',4,5,41); ?></p>
+ <?php footNote(L,1,37); ?> <?php internalLink('../','K',7,4,20); ?></p>
+ <?php footNote(L,1,38); ?> <?php internalLink('../','K',3,5,14); ?></p>
+ <?php footNote(L,1,39); ?> <?php internalLink('../','F',6,8,22); ?></p>
+ <?php footNote(L,1,40); ?> <?php internalLink('../','K',7,4,39); ?></p>
+ <?php footNote(L,1,41); ?> <?php internalLink('../','K',7,4,35); ?></p>
+ <?php footNote(L,1,42); ?> <?php internalLink('../','F',6,4,6); ?> and <?php internalLink('../','F',6,5,19); ?></p>
+ <?php footNote(L,1,43); ?> <?php internalLink('../','K',7,4,24); ?></p>
+ <?php footNote(L,1,44); ?> <?php internalLink('../','F',6,2,74); ?></p>
+ <?php footNote(L,1,45); ?> <?php internalLink('../','K',7,4,35); ?></p>
+ <?php footNote(L,1,46); ?> <?php internalLink('../','F',6,9,75); ?></p>
+ <?php footNote(L,1,47); ?> <?php internalLink('../','K',3,4,28); ?></p>
+ <?php footNote(L,1,48); ?> <?php internalLink('../','K',4,16,4); ?></p>
+ <?php footNote(L,1,49); ?> <?php internalLink('../','H',5,2,59); ?></p>
+ <?php footNote(L,1,50); ?> <?php internalLink('../','H',5,2,59); ?></p>
+ <?php footNote(L,1,51); ?> <?php internalLink('../','H',5,2,61); ?></p>
+ <?php footNote(L,1,52); ?> <?php internalLink('../','H',5,2,45); ?></p>
+ <?php footNote(L,1,53); ?> <?php internalLink('../','H',5,2,56); ?></p>
+ <?php footNote(L,1,54); ?> <?php internalLink('../','H',5,2,63); ?></p>
+ <?php footNote(L,1,55); ?> <?php internalLink('../','H',5,2,93); ?> and <?php internalLink('../','H',5,2,94); ?></p>
+ <?php footNote(L,1,56); ?> <?php internalLink('../','H',5,2,106); ?></p>
+ <?php footNote(L,1,57); ?> <!--typo, was 1.106 which doesn't exist--><?php internalLink('../','H',5,2,106); ?></p>
+ <?php footNote(L,1,58); ?> <?php internalLink('../','H',6,4,9); ?></p>
+ <?php footNote(L,1,59); ?> <?php internalLink('../','H',5,2,63); ?></p>
+ <?php footNote(L,1,60); ?> <?php internalLink('../','H',5,2,71); ?></p>
+ <?php footNote(L,1,61); ?> <?php internalLink('../','H',5,2,72); ?></p>
+ <?php footNote(L,1,62); ?> <?php internalLink('../','H',5,2,64); ?></p>
+ <?php footNote(L,1,63); ?> <?php internalLink('../','H',5,2,72); ?></p>
+ <?php footNote(L,1,64); ?> <?php internalLink('../','H',5,2,106); ?></p>
+ <?php footNote(L,1,65); ?> <?php internalLink('../','H',5,2,107); ?></p>
+ <?php footNote(L,1,66); ?> <?php internalLink('../','H',6,4,3); ?></p>
+ <?php footNote(L,1,67); ?> <?php internalLink('../','H',6,4,4); ?></p>
+ <?php footNote(L,1,68); ?> <?php internalLink('../','H',5,2,94); ?> and <?php internalLink('../','H',5,2,95); ?></p>
+ <?php footNote(L,1,69); ?> <?php internalLink('../','J',2,9,1); ?></p>
+ <?php footNote(L,1,70); ?> <?php internalLink('../','J',2,9,11); ?></p>
+ <?php footNote(L,1,71); ?> <?php internalLink('../','J',3,5,6); ?></p>
+ <?php footNote(L,1,72); ?> <?php internalLink('../','J',3,5,7); ?></p>
+ <?php footNote(L,1,73); ?> <?php internalLink('../','J',3,5,8); ?></p>
+ <?php footNote(L,1,74); ?> <?php internalLink('../','J',3,5,10); ?></p>
+ <?php footNote(L,1,75); ?> <?php internalLink('../','J',3,6,9); ?></p>
+ <?php footNote(L,1,76); ?> <?php internalLink('../','J',3,6,11); ?></p>
+ <?php footNote(L,1,77); ?> <?php internalLink('../','G',4,4,5); ?></p>
+ <?php footNote(L,1,78); ?> <?php internalLink('../','G',4,4,8); ?></p>
+ <?php footNote(L,1,79); ?> <?php internalLink('../','G',4,4,10); ?></p>
+ <?php footNote(L,1,80); ?> <?php internalLink('../','G',4,5,6); ?></p>
+ <?php footNote(L,1,81); ?> <?php internalLink('../','G',4,6,4); ?></p>
+ <?php footNote(L,1,82); ?> <?php internalLink('../','G',4,7,6); ?></p>
+ <?php footNote(L,1,83); ?> <?php internalLink('../','G',4,8,14); ?></p>
+ <?php footNote(L,1,84); ?> <?php internalLink('../','I',8,5,9); ?></p>
+ <?php footNote(L,1,85); ?> <?php internalLink('../','I',8,5,31); ?></p>
+ <?php footNote(L,1,86); ?> <?php internalLink('../','I',9,5,37); ?></p>
+ <?php footNote(L,1,87); ?> <?php internalLink('../','I',9,2,8); ?></p>
+ <?php footNote(L,1,88); ?> <?php internalLink('../','I',9,2,11); ?></p>
+ <?php footNote(L,1,89); ?> <?php internalLink('../','I',9,3,9); ?></p>
+ <?php footNote(L,1,90); ?> <?php internalLink('../','I',9,4,19); ?></p>
+ <?php footNote(L,1,91); ?> <?php internalLink('../','I',9,4,20); ?></p>
+ <?php footNote(L,1,92); ?> <?php internalLink('../','I',9,5,14); ?></p>
+ <?php footNote(L,1,93); ?> <?php internalLink('../','I',9,6,10); ?></p>
+ <?php footNote(L,1,94); ?> <?php internalLink('../','I',9,6,11); ?></p>
+ </div>

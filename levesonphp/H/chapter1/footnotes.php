@@ -1,0 +1,10 @@
+<!-- Footnotes-->
+<div id="footnotes"> <?php footNote('H',1,1); ?> Appendix 4</p>
+ <?php footNote('H',1,2); ?> <?php internalChapterLink('../../','E',3); ?></p>
+ <?php footNote('H',1,3); ?> Although the evidence from the two Information Commissioners and two members of staff was heard over  acomparatively short time (occupying one full day and less than three half days) the ripples flowing from OperationMotorman were felt throughout the Inquiry and were the subject both of evidence and legal argument. Detailed andcomprehensive expert evidence was also called. The extent of this analysis has meant that particular care has been takento address subsequent submissions by the two Commissioners which dealt with more wide ranging considerations </p>
+ <?php footNote('H',1,4); ?> p5 onwards, Richard Thomas, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2011/12/Transcript-of-Morning-Hearing-9-December-2011.pdf">Transcript-of-Morning-Hearing-9-December-2011.pdf</a></p>
+ <?php footNote('H',1,5); ?> p75, Richard Thomas, <em>ibid</em></p>
+ <?php footNote('H',1,6); ?> p75, line 13, Richard Thomas, <em>ibid</em>, emphasis added. Mr Thomas suggested, however, that s55 of the DPA whichfounded the prosecution powers was most likely to be the most relevant provision of the regime to the terms ofreference: p3, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2011/12/First-Witness-Statement-of-Richard-Thomas-CBE.pdf">First-Witness-Statement-of-Richard-Thomas-CBE.pdf</a></p>
+ <?php footNote('H',1,7); ?> p53, Richard Thomas, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2011/12/Transcript-of-Afternoon-Hearing-9-December-2011.pdf">Transcript-of-Afternoon-Hearing-9-December-2011.pdf</a></p>
+ <?php footNote('H',1,8); ?> When questioned by Mr Rhodri Davies QC for NI, Mr Thomas was reluctant to attempt a definitive explanation ofs32: p75, Richard Thomas, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2011/12/Transcript-of-Afternoon-Hearing-9-December-2011.pdf">Transcript-of-Afternoon-Hearing-9-December-2011.pdf</a></p>
+ </div>

@@ -1,0 +1,22 @@
+<!-- Footnotes-->
+<div id="footnotes"> 
+  <?php footNote('C',1,1); ?> http://www.competition-commission.org.uk/rep_pub/reports/2000/fulltext/442a4.2.pdf cited as being cc from datain Advertising Statistics Yearbook 1999</p>
+ <?php footNote('C',1,2); ?> http://stakeholders.ofcom.org.uk/binaries/research/cmr/cmr11/UK_Doc_Section_1.pdf</p>
+ <?php footNote('C',1,3); ?> <em>ibid</em></p>
+ <?php footNote('C',1,4); ?> Claire Enders, Competitive Pressures on the Press, Seminar 6 October 2011, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Claire-Enders-Competitive-pressures-on-the-press.pdf">Claire-Enders-Competitive-pressures-on-the-press.pdf</a></p>
+ <?php footNote('C',1,5); ?> Guardian website based on ABC figure http://www.guardian.co.uk/media/table/2011/oct/14/abcs-national-newspapers</p>
+ <?php footNote('C',1,6); ?> Claire Enders, Competitive Pressures on the Press, Seminar 6 October 2011, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/07/Claire-Enders-Competitive-pressures-on-the-press.pdf">Claire-Enders-Competitive-pressures-on-the-press.pdf</a></p>
+ <?php footNote('C',1,7); ?> <em>ibid</em></p>
+ <?php footNote('C',1,8); ?> <em>ibid</em></p>
+ <?php footNote('C',1,9); ?> 2002 daily figures from http://media.guardian.co.uk/presspublishing/tables/0,,811748,00.html;2002 Sunday figures from http://media.guardian.co.uk/presspublishing/tables/0,,811755,00.html;2012 figures from http://www.pressgazette.co.uk/abcs-three-national-dailies-increase-circulation-september</p>
+ <?php footNote('C',1,10); ?> PWC adspend study, http://www.iabuk.net/research/library/2012-h1-digital-adspend-results</p>
+ <?php footNote('C',1,11); ?> pp83-84, lines 11-3, Sly Bailey, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of-Afternoon-Hearing-16-January-20121.pdf">Transcript-of-Afternoon-Hearing-16-January-20121.pdf</a></p>
+ <?php footNote('C',1,12); ?> <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Witness-Statement-of-Spencer-Feeney.pdf">Witness-Statement-of-Spencer-Feeney.pdf</a>;<a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Witness-Statement-of-Mike-Gilson.pdf">Witness-Statement-of-Mike-Gilson.pdf</a>; <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Witness-Statement-of-John-McLellan.pdf">Witness-Statement-of-John-McLellan.pdf</a>; <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Witness-Statement-of-Jonathan-Russell.pdf">Witness-Statement-of-Jonathan-Russell.pdf</a></p>
+ <?php footNote('C',1,13); ?> pp99-100, Spencer Feeney, Mike Gilson, John McLellan and Jonathan Russell, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of-Morning-Hearing-18-January-2012.pdf">Transcript-of-Morning-Hearing-18-January-2012.pdf</a></p>
+ <?php footNote('C',1,14); ?> pp7-8, paras 26-27, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Witness-Statement-of-Vijay-Vaghela.pdf">Witness-Statement-of-Vijay-Vaghela.pdf</a></p>
+ <?php footNote('C',1,15); ?> Richard Wallace, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of-Morning-Hearing-16-January-2012.pdf">Transcript-of-Morning-Hearing-16-January-2012.pdf</a></p>
+ <?php footNote('C',1,16); ?> p61, lines 1-11, Richard Wallace, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of-Morning-Hearing-16-January-2012.pdf">Transcript-of-Morning-Hearing-16-January-2012.pdf</a></p>
+ <?php footNote('C',1,17); ?> p85, lines 10-15, Richard Peppiatt, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2011/11/Transcript-of-Morning-Hearing-29-November-2011.pdf">Transcript-of-Morning-Hearing-29-November-2011.pdf</a></p>
+ <?php footNote('C',1,18); ?> p75, lines 2-5, Sly Bailey, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of-Afternoon-Hearing-16-January-20121.pdf">Transcript-of-Afternoon-Hearing-16-January-20121.pdf</a></p>
+ <?php footNote('C',1,19); ?> pp99-100, Spencer Feeney, Mike Gilson, John McLellan and Jonathan Russell, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of-Morning-Hearing-18-January-2012.pdf">Transcript-of-Morning-Hearing-18-January-2012.pdf</a>; pp59-60, Peter Charlton, MariaMcGeoghan, Nigel Pickover, Noel Doran, <a href="http://www.levesoninquiry.org.uk/wp-content/uploads/2012/01/Transcript-of-Afternoon-Hearing-18-January-2012.pdf">Transcript-of-Afternoon-Hearing-18-January-2012.pdf</a></p>
+</div>
